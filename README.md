@@ -40,11 +40,10 @@ Remember that this is not officially supported - self-sufficiency and reading ca
 
 ### IMPORTANT
 
-<<<<<<< HEAD
 >FTLDNS will *disable* any existing installations of `dnsmasq`.  This is because FTLDNS *is* `dnsmasq` + Pi-hole's code, so both cannot run simultaneously.
 
 ### Acknowledgements
 >Thanks and gratitude to the developers at [Pi-hole.net](https://pi-hole.net) and denizens at [Pi-hole discourse](https://discourse.pi-hole.net/) that did the code, fixed the bugs, rattled the cages to shake out the problems, and make it work.
 =======
 >FTLDNS will *disable* any existing installations of `dnsmasq`. This is because FTLDNS *is* `dnsmasq` + Pi-hole's code, so both cannot run simultaneously.
->>>>>>> a3313229c21eefcb608e5d30b7255723d9efa3a9
+
